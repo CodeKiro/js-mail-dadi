@@ -26,3 +26,9 @@ EX2
 <!-- Chiedi all'utente la sua email,
 controlla che sia nella lista di chi può accedere
 stampa l'esito del controllo. -->
+
+EX3
+<!-- 
+Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array
+Prima di partire a scrivere codice poniamoci qualche domanda:
+Dov'è che ci serve un array e dove no? -->
