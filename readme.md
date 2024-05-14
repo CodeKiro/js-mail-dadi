@@ -15,3 +15,8 @@ Dov'è che ci serve un array e dove no?
 Se dobbiamo confrontare qualcosa che "cosa" ci serve? -->
 
 
+EX1
+<!-- generare due numeri randomici
+se i numeri dovessero essere uguali nessuno vince
+se il primo numero è superiore vince l'utente
+altrimenti vince il computer --> 
