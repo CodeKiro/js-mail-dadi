@@ -20,3 +20,9 @@ EX1
 se i numeri dovessero essere uguali nessuno vince
 se il primo numero è superiore vince l'utente
 altrimenti vince il computer --> 
+
+EX2
+
+<!-- Chiedi all'utente la sua email,
+controlla che sia nella lista di chi può accedere
+stampa l'esito del controllo. -->
